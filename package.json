@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.3"
+  },
+  "name": "node_0",
+  "version": "1.0.0",
+  "description": "Practica de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node express/index.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "MapRoxa",
+  "license": "ISC"
+}
